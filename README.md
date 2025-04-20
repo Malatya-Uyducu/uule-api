@@ -45,7 +45,7 @@ GET https://www.malatyauyducum.com/search/search_api.php?location=POSTAL_CODE&qu
 
 **Simple Query (JSON response)**:
 ```
-GET https://www.malatyauyducum.com/search/search_api.php?location=34000&query=pizza&country=TR
+GET https://www.malatyauyducum.com/search/search_api.php?location=34200&query=pizza&country=TR
 ```
 
 **Query with Place Name**:
